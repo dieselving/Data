@@ -1,0 +1,11 @@
+Customer Merge Report
+========================================
+Unique customers before deduplication: 14
+Unique customers after deduplication: 14
+Total rows in final dataset: 14
+Total purchases before merging: 33906.0
+Total purchases after merging: 32406.0
+
+Conflicts Resolved:
+No conflicting data found.
+Generated on: 2025-09-15 20:39:24

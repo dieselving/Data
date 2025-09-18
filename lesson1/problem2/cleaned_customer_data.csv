@@ -1,0 +1,12 @@
+customer_id,name,email,age,phone,salary,join_date
+1.0,John Doe,john@email.com,25.0,(123) 456-7890,50000.0,2023-01-15
+2.0,Jane Smith,jane@gmail.com,30.0,(555) 123-4567,60000.0,2023-02-20
+3.0,Bob Johnson,,,(555) 123-4567,,2023-03-15
+4.0,,alice@email.com,28.0,(123) 456-7890,55000.0,2023-04-10
+5.0,Alice Brown,,45.0,,70000.0,
+7.0,Mary Wilson,mary@email.com,,(555) 987-6543,80000.0,2023-05-30
+8.0,Tom Anderson,,33.0,(555) 876-5432,65000.0,2023-07-01
+9.0,,lisa@email.com,29.0,,52000.0,2023-08-15
+10.0,Lisa Garcia,,41.0,,,2023-09-10
+11.0,Mike Thompson,mike@gmail.com,,,,
+12.0,Sarah Lee,sarah@email.com,31.0,,58000.0,2023-11-20

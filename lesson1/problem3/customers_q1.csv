@@ -1,0 +1,9 @@
+customer_id,name,email,city,registration_date,total_purchases
+1,John Doe,john@email.com,New York,2023-01-15,1500.0
+2,Jane Smith,jane@gmail.com,Los Angeles,2023-01-20,2300.5
+3,Bob Johnson,bob@yahoo.com,Chicago,2023-02-05,875.25
+4,Alice Brown,alice@email.com,Houston,2023-02-10,3200.0
+5,Charlie Davis,charlie@hotmail.com,Phoenix,2023-02-15,1200.75
+6,Mary Wilson,mary@gmail.com,Philadelphia,2023-03-01,1800.0
+7,Tom Anderson,tom@email.com,San Antonio,2023-03-10,950.5
+8,Lisa Garcia,lisa@yahoo.com,San Diego,2023-03-15,2100.25

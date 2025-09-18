@@ -1,0 +1,13 @@
+customer_id,name,email,city,registration_date,total_purchases
+5,Charlie Davis,charlie@hotmail.com,Phoenix,2023-02-15,1750.75
+6,Mary Wilson,mary@gmail.com,Philadelphia,2023-03-01,2100.0
+7,Tom Anderson,tom@email.com,San Antonio,2023-03-10,1150.5
+8,Lisa Garcia,lisa@yahoo.com,San Diego,2023-03-15,2500.25
+9,Mike Thompson,mike@gmail.com,Boston,2023-04-01,1400.0
+10,Sarah Lee,sarah@email.com,Seattle,2023-04-05,1600.5
+11,David Wilson,david@yahoo.com,Denver,2023-04-10,2200.75
+12,Emma Davis,emma@hotmail.com,Miami,2023-04-15,1300.25
+13,James Brown,james@email.com,Atlanta,2023-05-01,1900.0
+14,Olivia Johnson,olivia@gmail.com,Portland,2023-05-05,1700.5
+3,Bob Johnson,bob@yahoo.com,Chicago,2023-02-05,875.25
+5,Charlie Davis,charlie@hotmail.com,Las Vegas,2023-02-15,1500.0

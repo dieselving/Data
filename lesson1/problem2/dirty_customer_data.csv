@@ -1,0 +1,15 @@
+customer_id,name,email,age,phone,salary,join_date
+1,John Doe,john@email.com,25,123-456-7890,50000,2023-01-15
+2,jane smith,jane@GMAIL.COM,30,(555) 123-4567,60000,2023/02/20
+3,BOB JOHNSON,bob@invalid,thirty-five,5551234567,,15-03-2023
+4,,alice@email.com,28,123.456.7890,55000,2023-04-10
+5,Alice Brown,,45,555-1234,70000,
+,charlie davis,charlie@yahoo.com,22,,45000,2023-05-25
+7,MARY WILSON,mary@EMAIL.COM,,(555)987-6543,80000,"May 30, 2023"
+8,tom anderson,invalid-email,33,555 876 5432,65000,2023-07-01
+9,,lisa@email.com,29,123-45-6789,52000,08/15/2023
+10,Lisa Garcia,,41,555-0000,,2023-09-10
+11,mike thompson,mike@gmail.com,twenty-seven,invalid,sixty thousand,invalid-date
+12,Sarah Lee,sarah@email.com,31,+1-555-123-4567,58000,2023-11-20
+1,John Doe,john@email.com,25,123-456-7890,50000,2023-01-15
+3,BOB JOHNSON,bob@invalid,thirty-five,5551234567,,15-03-2023

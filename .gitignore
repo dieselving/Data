@@ -1,0 +1,43 @@
+# Setup folder (contains generation scripts)
+setup/
+
+# Claude AI generated file
+CLAUDE.md
+
+# Python virtual environment
+venv/
+env/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# Log files
+*.log

@@ -1,0 +1,14 @@
+Data Quality Report
+========================================
+Rows after cleaning: 11
+Missing values by column:
+customer_id    0
+name           2
+email          4
+age            3
+phone          5
+salary         3
+join_date      2
+dtype: int64
+----------------------------------------
+Generated on: 2025-09-15 20:23:26
