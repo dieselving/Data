@@ -1,0 +1,151 @@
+employee_id,first_name,last_name,email,ssn,salary,department,hire_date,performance_rating,phone_number
+EMP0001,James,Miller,john.rodriguez@company.com,568-89-5692,87417,Operations,2024-04-26,Needs Improvement,(274) 728-8139
+EMP0002,Jane,Miller,michael.brown@company.com,576-15-8258,71543,IT,2025-07-06,Good,(451) 313-7925
+EMP0003,David,Jones,anna.smith@company.com,222-97-5204,91192,IT,2024-12-10,Needs Improvement,(418) 613-8214
+EMP0004,Anna,Garcia,david.smith@company.com,417-19-2124,113075,Operations,2024-04-18,Excellent,(760) 485-2973
+EMP0005,David,Jones,james.jones@company.com,781-91-5530,69146,Marketing,2021-12-02,Needs Improvement,(865) 794-7842
+EMP0006,Robert,Miller,emily.martinez@company.com,346-98-7571,69146,Marketing,2022-05-13,Needs Improvement,(325) 948-7920
+EMP0007,Emily,Rodriguez,david.martinez@company.com,531-76-3454,114480,Finance,2022-10-08,Satisfactory,(384) 794-2770
+EMP0008,Michael,Williams,david.miller@company.com,317-34-2821,94185,R&D,2020-07-22,Excellent,(268) 249-1377
+EMP0009,Robert,Jones,sarah.williams@company.com,815-63-2228,63263,Legal,2020-09-07,Needs Improvement,(422) 702-3188
+EMP0010,Robert,Rodriguez,david.williams@company.com,394-91-4892,88564,R&D,2024-12-02,Needs Improvement,(437) 774-9667
+EMP0011,Michael,Smith,sarah.jones@company.com,790-49-5592,63414,Finance,2021-04-10,Good,(745) 394-7256
+EMP0012,John,Brown,david.williams@company.com,209-22-7782,63356,Marketing,2024-01-10,Needs Improvement,(287) 284-7134
+EMP0013,Anna,Rodriguez,john.brown@company.com,131-86-3534,81049,IT,2021-06-20,Needs Improvement,(379) 958-7779
+EMP0014,Robert,Rodriguez,michael.williams@company.com,239-17-2353,27167,Legal,2021-03-03,Good,(860) 806-6311
+EMP0015,James,Williams,jane.smith@company.com,967-99-1836,31877,IT,2024-11-21,Satisfactory,(360) 940-4202
+EMP0016,Emily,Johnson,jane.garcia@company.com,637-67-6880,60942,Finance,2021-02-06,Needs Improvement,(792) 241-1573
+EMP0017,Michael,Martinez,jane.martinez@company.com,797-24-5140,49679,Legal,2025-07-24,Good,(733) 921-4436
+EMP0018,Anna,Smith,james.davis@company.com,732-25-9081,82856,Finance,2020-05-25,Excellent,(803) 364-4136
+EMP0019,Sarah,Smith,david.smith@company.com,883-57-3406,52299,Finance,2020-07-26,Satisfactory,(900) 297-6618
+EMP0020,Sarah,Davis,sarah.rodriguez@company.com,626-20-3121,39692,HR,2022-07-10,Excellent,(724) 525-3711
+EMP0021,John,Miller,michael.johnson@company.com,640-42-5267,111641,Finance,2020-04-14,Excellent,(436) 522-8772
+EMP0022,Anna,Davis,jane.davis@company.com,658-67-9094,69355,Legal,2023-04-25,Good,(717) 820-3212
+EMP0023,John,Smith,michael.rodriguez@company.com,366-55-4711,76688,Marketing,2025-02-12,Needs Improvement,(839) 410-9800
+EMP0024,Jane,Williams,emily.williams@company.com,944-18-2405,39381,IT,2025-03-30,Good,(512) 903-2369
+EMP0025,Robert,Miller,david.rodriguez@company.com,971-90-8830,61390,Legal,2020-05-03,Good,(914) 915-3985
+EMP0026,John,Rodriguez,anna.jones@company.com,776-62-5002,77773,Finance,2021-12-27,Good,(558) 890-4431
+EMP0027,Emily,Miller,lisa.rodriguez@company.com,890-16-4943,46225,Marketing,2020-09-25,Good,(872) 697-4587
+EMP0028,Lisa,Johnson,james.brown@company.com,602-12-9270,84392,Legal,2020-06-07,Satisfactory,(232) 498-3927
+EMP0029,John,Johnson,sarah.martinez@company.com,720-79-2338,59984,HR,2023-07-17,Needs Improvement,(466) 920-1835
+EMP0030,James,Garcia,lisa.smith@company.com,214-14-6072,67707,R&D,2024-07-09,Excellent,(236) 548-1470
+EMP0031,Emily,Williams,david.rodriguez@company.com,870-61-4727,59957,R&D,2024-10-07,Excellent,(337) 893-2681
+EMP0032,Anna,Smith,john.jones@company.com,556-12-5293,121306,IT,2021-03-15,Needs Improvement,(610) 780-9988
+EMP0033,Lisa,Jones,emily.rodriguez@company.com,453-78-5476,74662,HR,2025-03-13,Excellent,(706) 282-3746
+EMP0034,Robert,Rodriguez,lisa.jones@company.com,207-78-8327,48557,Finance,2024-11-06,Needs Improvement,(304) 266-6994
+EMP0035,Jane,Martinez,david.garcia@company.com,751-62-4251,95563,Operations,2023-10-12,Excellent,(827) 743-6241
+EMP0036,James,Rodriguez,lisa.rodriguez@company.com,785-99-5211,44478,Legal,2021-10-30,Good,(878) 873-1091
+EMP0037,Emily,Davis,john.martinez@company.com,282-61-7255,80221,Operations,2022-01-24,Excellent,(334) 642-9239
+EMP0038,Sarah,Davis,david.johnson@company.com,141-82-6134,26008,Marketing,2021-12-11,Needs Improvement,(476) 781-7103
+EMP0039,Michael,Jones,michael.rodriguez@company.com,129-19-2400,41795,IT,2024-05-27,Needs Improvement,(769) 547-4467
+EMP0040,Anna,Johnson,emily.brown@company.com,527-97-3292,79921,Finance,2024-04-25,Needs Improvement,(903) 269-6922
+EMP0041,James,Smith,robert.brown@company.com,501-30-6190,93461,Operations,2024-04-04,Needs Improvement,(333) 897-8304
+EMP0042,Lisa,Jones,jane.williams@company.com,697-43-8835,79284,Operations,2023-11-23,Needs Improvement,(866) 484-4462
+EMP0043,Michael,Smith,emily.brown@company.com,818-83-5179,72108,HR,2022-02-12,Satisfactory,(450) 567-6798
+EMP0044,John,Johnson,michael.johnson@company.com,115-55-1436,67472,R&D,2022-09-09,Satisfactory,(855) 791-7617
+EMP0045,Emily,Smith,robert.johnson@company.com,479-93-2505,38036,Finance,2020-12-21,Excellent,(566) 599-8405
+EMP0046,Emily,Smith,michael.miller@company.com,740-96-5534,57003,R&D,2022-06-27,Needs Improvement,(790) 667-7887
+EMP0047,Jane,Martinez,michael.davis@company.com,295-73-3067,63484,Legal,2024-08-02,Excellent,(663) 536-6737
+EMP0048,James,Martinez,john.miller@company.com,931-17-2339,101428,Finance,2023-05-14,Needs Improvement,(527) 836-1157
+EMP0049,Emily,Miller,jane.smith@company.com,797-79-4980,83590,Operations,2021-06-27,Needs Improvement,(336) 916-7595
+EMP0050,Sarah,Smith,john.davis@company.com,815-71-5104,30923,Marketing,2024-06-08,Satisfactory,(353) 409-1026
+EMP0051,Anna,Martinez,john.davis@company.com,799-28-7746,83102,Marketing,2025-06-11,Satisfactory,(977) 421-4578
+EMP0052,James,Miller,lisa.brown@company.com,929-25-8100,65372,Marketing,2023-11-03,Good,(710) 276-3599
+EMP0053,Lisa,Brown,david.miller@company.com,471-37-6774,58076,Finance,2022-07-10,Satisfactory,(992) 764-6058
+EMP0054,James,Martinez,michael.garcia@company.com,555-17-3865,90291,Finance,2021-03-26,Good,(563) 324-8960
+EMP0055,James,Smith,michael.martinez@company.com,752-32-2959,100774,R&D,2023-08-24,Good,(253) 980-7779
+EMP0056,Michael,Smith,robert.rodriguez@company.com,581-34-3805,98282,R&D,2024-03-12,Good,(769) 766-1118
+EMP0057,James,Brown,lisa.jones@company.com,654-60-8831,54019,Finance,2022-02-20,Good,(793) 817-3574
+EMP0058,Jane,Martinez,lisa.garcia@company.com,706-63-6519,67269,Finance,2021-12-17,Good,(893) 829-6080
+EMP0059,Emily,Smith,john.smith@company.com,747-52-5881,83281,Finance,2024-05-08,Excellent,(286) 888-4497
+EMP0060,Emily,Rodriguez,lisa.smith@company.com,850-36-9834,99388,Legal,2022-01-12,Satisfactory,(646) 604-9937
+EMP0061,Anna,Martinez,james.davis@company.com,981-99-7621,63020,IT,2022-08-29,Good,(534) 313-8164
+EMP0062,Emily,Davis,anna.williams@company.com,867-72-5116,70358,Finance,2022-09-29,Needs Improvement,(521) 395-3747
+EMP0063,Jane,Miller,jane.garcia@company.com,567-36-6376,47341,Operations,2024-12-10,Satisfactory,(995) 799-9567
+EMP0064,Anna,Martinez,james.jones@company.com,890-48-9264,45094,HR,2022-06-10,Satisfactory,(863) 918-7540
+EMP0065,John,Jones,anna.davis@company.com,959-56-7628,95313,IT,2023-10-09,Good,(901) 488-5024
+EMP0066,Jane,Brown,emily.miller@company.com,946-17-2837,108906,HR,2024-06-21,Excellent,(624) 622-6224
+EMP0067,Jane,Davis,sarah.smith@company.com,786-72-1643,73199,Legal,2020-12-11,Good,(963) 941-7425
+EMP0068,David,Garcia,emily.jones@company.com,950-79-6985,100088,Marketing,2021-12-30,Excellent,(284) 806-9285
+EMP0069,Lisa,Garcia,david.jones@company.com,456-35-3747,84040,Operations,2024-09-12,Needs Improvement,(991) 430-9188
+EMP0070,Michael,Miller,james.garcia@company.com,942-19-6689,58872,Marketing,2021-08-10,Satisfactory,(733) 715-2280
+EMP0071,Michael,Smith,john.miller@company.com,174-65-9141,84034,Operations,2024-11-05,Needs Improvement,(698) 798-6651
+EMP0072,James,Smith,anna.martinez@company.com,810-53-2835,113450,Finance,2025-07-23,Excellent,(689) 720-1442
+EMP0073,Lisa,Rodriguez,david.brown@company.com,690-25-5033,74104,R&D,2025-02-01,Excellent,(888) 244-6319
+EMP0074,Emily,Johnson,james.brown@company.com,658-89-6344,114116,Marketing,2022-08-23,Needs Improvement,(755) 474-5732
+EMP0075,John,Davis,michael.brown@company.com,745-21-6972,9506,R&D,2020-08-20,Excellent,(683) 254-9320
+EMP0076,Jane,Rodriguez,lisa.miller@company.com,770-47-2491,95547,Operations,2023-12-15,Needs Improvement,(222) 222-5280
+EMP0077,Sarah,Johnson,emily.brown@company.com,407-56-2816,77176,Marketing,2021-07-31,Satisfactory,(604) 479-9101
+EMP0078,Anna,Brown,jane.davis@company.com,363-80-8791,67524,Finance,2024-03-04,Needs Improvement,(858) 807-2419
+EMP0079,James,Brown,james.martinez@company.com,208-80-5544,77294,Operations,2023-07-28,Satisfactory,(859) 282-7550
+EMP0080,Lisa,Rodriguez,sarah.garcia@company.com,638-96-1394,25310,Legal,2023-03-26,Needs Improvement,(977) 919-5111
+EMP0081,Michael,Garcia,jane.davis@company.com,715-77-2346,69508,Legal,2020-09-11,Excellent,(582) 383-8108
+EMP0082,Lisa,Martinez,robert.jones@company.com,227-29-3259,83927,Marketing,2020-04-05,Needs Improvement,(875) 653-9541
+EMP0083,Lisa,Martinez,robert.williams@company.com,583-83-7223,111947,Marketing,2023-04-11,Excellent,(642) 506-6200
+EMP0084,Lisa,Martinez,david.miller@company.com,816-21-8544,62043,Marketing,2023-10-17,Needs Improvement,(282) 683-7923
+EMP0085,David,Smith,lisa.martinez@company.com,334-27-5838,54787,Marketing,2022-06-10,Needs Improvement,(765) 352-3898
+EMP0086,Jane,Davis,sarah.jones@company.com,601-92-4146,62456,Operations,2024-07-31,Good,(605) 214-9158
+EMP0087,Robert,Rodriguez,lisa.miller@company.com,528-40-6842,97885,R&D,2022-12-27,Excellent,(273) 575-6841
+EMP0088,Robert,Williams,emily.davis@company.com,155-59-9798,83218,IT,2020-11-03,Good,(697) 336-6163
+EMP0089,Jane,Johnson,anna.martinez@company.com,212-74-8085,61755,IT,2025-01-31,Excellent,(709) 532-5611
+EMP0090,John,Davis,jane.davis@company.com,194-55-9453,87831,Marketing,2025-04-06,Good,(699) 759-8315
+EMP0091,Emily,Rodriguez,robert.brown@company.com,963-79-4170,77426,Legal,2021-04-16,Satisfactory,(680) 559-9277
+EMP0092,Michael,Brown,david.miller@company.com,973-65-2461,99216,IT,2021-01-15,Needs Improvement,(878) 914-7434
+EMP0093,David,Johnson,robert.miller@company.com,516-30-4682,57448,Legal,2023-09-08,Excellent,(950) 897-8934
+EMP0094,Robert,Davis,robert.martinez@company.com,753-74-6095,66808,Finance,2024-12-31,Excellent,(848) 501-7273
+EMP0095,Robert,Jones,robert.rodriguez@company.com,210-66-2776,65197,Operations,2023-08-17,Needs Improvement,(564) 227-6909
+EMP0096,Lisa,Martinez,robert.garcia@company.com,381-58-4134,38412,HR,2024-05-24,Excellent,(835) 747-6199
+EMP0097,Lisa,Martinez,emily.martinez@company.com,581-87-3289,82403,Operations,2021-12-10,Excellent,(207) 297-1041
+EMP0098,James,Rodriguez,robert.miller@company.com,844-16-8117,81526,Legal,2023-09-03,Good,(941) 624-9215
+EMP0099,John,Brown,john.rodriguez@company.com,963-91-2068,75127,Operations,2025-07-16,Excellent,(571) 540-5265
+EMP0100,Emily,Garcia,lisa.williams@company.com,359-34-2001,69135,IT,2025-02-06,Satisfactory,(916) 498-5637
+EMP0101,Michael,Garcia,michael.williams@company.com,404-65-5678,39615,Finance,2024-04-15,Satisfactory,(896) 966-4119
+EMP0102,Jane,Martinez,robert.miller@company.com,186-47-1725,64483,IT,2023-12-25,Needs Improvement,(469) 918-5232
+EMP0103,Robert,Garcia,sarah.smith@company.com,769-20-1985,66432,HR,2020-04-15,Excellent,(719) 765-9965
+EMP0104,Michael,Williams,emily.williams@company.com,643-70-4026,54943,Marketing,2025-03-29,Needs Improvement,(347) 773-9513
+EMP0105,James,Garcia,robert.miller@company.com,900-70-2816,70967,Legal,2022-11-28,Satisfactory,(892) 982-5566
+EMP0106,John,Johnson,emily.johnson@company.com,846-67-7362,85101,Finance,2024-06-15,Excellent,(743) 512-9085
+EMP0107,Michael,Johnson,james.brown@company.com,577-72-4963,122154,R&D,2021-05-20,Excellent,(486) 430-2809
+EMP0108,Lisa,Miller,lisa.miller@company.com,325-76-3023,79364,Operations,2020-04-27,Needs Improvement,(377) 879-5519
+EMP0109,James,Rodriguez,lisa.rodriguez@company.com,323-77-4202,81438,HR,2023-09-07,Satisfactory,(849) 951-2825
+EMP0110,Emily,Miller,lisa.rodriguez@company.com,762-97-7282,73138,R&D,2024-10-28,Excellent,(874) 225-1488
+EMP0111,Sarah,Rodriguez,emily.garcia@company.com,345-34-3338,27030,Operations,2022-09-08,Needs Improvement,(480) 498-4526
+EMP0112,Jane,Brown,lisa.williams@company.com,329-29-7504,74337,Marketing,2023-12-31,Satisfactory,(544) 215-2808
+EMP0113,John,Williams,jane.davis@company.com,686-86-5490,76505,Finance,2021-02-15,Needs Improvement,(725) 656-7410
+EMP0114,James,Miller,lisa.smith@company.com,847-39-1203,136581,R&D,2020-12-19,Good,(513) 856-6857
+EMP0115,Emily,Jones,jane.martinez@company.com,656-57-4858,70190,Finance,2023-06-14,Excellent,(742) 708-7410
+EMP0116,Emily,Martinez,anna.martinez@company.com,708-45-5589,82538,R&D,2022-05-07,Good,(805) 591-4062
+EMP0117,Sarah,Martinez,james.davis@company.com,532-51-9705,74132,Marketing,2023-04-05,Satisfactory,(656) 918-5070
+EMP0118,Anna,Jones,david.jones@company.com,448-66-9243,45783,IT,2020-06-13,Good,(204) 417-5414
+EMP0119,Robert,Martinez,michael.smith@company.com,220-62-5918,103570,Marketing,2025-05-11,Good,(244) 845-8154
+EMP0120,Anna,Rodriguez,anna.garcia@company.com,469-61-3248,93798,Operations,2024-10-22,Satisfactory,(401) 793-5712
+EMP0121,James,Smith,david.martinez@company.com,694-32-8936,94775,Finance,2022-09-29,Needs Improvement,(350) 305-3220
+EMP0122,Emily,Smith,emily.jones@company.com,206-63-7417,52265,R&D,2024-12-16,Good,(266) 414-3721
+EMP0123,John,Brown,michael.brown@company.com,208-42-3307,110069,Legal,2024-11-23,Needs Improvement,(869) 768-4076
+EMP0124,David,Rodriguez,jane.johnson@company.com,504-16-9955,39953,Legal,2023-04-19,Good,(201) 380-5006
+EMP0125,Jane,Garcia,sarah.brown@company.com,738-57-7651,89671,HR,2025-05-11,Needs Improvement,(295) 214-7013
+EMP0126,James,Jones,david.johnson@company.com,239-80-9544,129761,HR,2024-04-13,Satisfactory,(326) 463-8484
+EMP0127,James,Williams,james.rodriguez@company.com,738-34-6951,50236,Legal,2020-11-11,Good,(946) 827-1473
+EMP0128,John,Brown,james.johnson@company.com,452-48-6622,60842,Marketing,2022-04-07,Satisfactory,(946) 837-9645
+EMP0129,Robert,Jones,michael.rodriguez@company.com,364-65-5613,77491,Marketing,2022-11-20,Good,(965) 316-8615
+EMP0130,John,Rodriguez,robert.martinez@company.com,944-36-9621,62413,Marketing,2021-12-04,Satisfactory,(483) 423-7389
+EMP0131,Michael,Davis,sarah.brown@company.com,687-42-9212,36233,Marketing,2020-05-11,Satisfactory,(703) 502-1594
+EMP0132,Emily,Rodriguez,anna.williams@company.com,905-28-2871,76714,R&D,2020-12-01,Good,(914) 886-4264
+EMP0133,Anna,Jones,robert.brown@company.com,698-17-4637,48442,Finance,2022-03-19,Good,(398) 206-9300
+EMP0134,John,Williams,jane.garcia@company.com,270-12-7864,86839,IT,2023-08-07,Good,(410) 862-6967
+EMP0135,Emily,Davis,sarah.williams@company.com,473-22-8173,52014,HR,2021-12-06,Excellent,(754) 960-7174
+EMP0136,David,Davis,robert.brown@company.com,120-76-2366,113748,Legal,2024-03-28,Needs Improvement,(807) 386-1237
+EMP0137,Robert,Williams,john.davis@company.com,517-91-2434,55418,Finance,2021-06-15,Excellent,(843) 286-6272
+EMP0138,John,Jones,john.miller@company.com,547-67-4437,66948,HR,2023-09-06,Excellent,(894) 931-9521
+EMP0139,Lisa,Williams,emily.brown@company.com,618-59-5037,95337,Operations,2023-03-22,Satisfactory,(624) 492-4422
+EMP0140,John,Miller,emily.miller@company.com,442-55-4060,44228,Legal,2022-06-09,Good,(280) 700-1804
+EMP0141,Sarah,Johnson,michael.williams@company.com,930-35-7416,80686,IT,2024-05-30,Needs Improvement,(316) 729-6413
+EMP0142,Jane,Jones,james.garcia@company.com,990-13-5121,107678,Finance,2020-10-02,Satisfactory,(220) 989-7081
+EMP0143,Emily,Martinez,john.williams@company.com,185-23-2011,34812,Marketing,2024-03-25,Excellent,(944) 666-6076
+EMP0144,James,Rodriguez,lisa.davis@company.com,317-70-8670,79615,Legal,2023-09-16,Good,(247) 608-3927
+EMP0145,Emily,Martinez,james.garcia@company.com,461-87-6638,81497,R&D,2022-06-28,Satisfactory,(701) 735-7404
+EMP0146,John,Smith,jane.williams@company.com,345-61-2114,94545,Legal,2022-03-31,Good,(512) 821-5589
+EMP0147,Anna,Jones,anna.johnson@company.com,937-71-1275,44076,R&D,2020-11-10,Satisfactory,(579) 624-3136
+EMP0148,John,Davis,anna.martinez@company.com,152-56-6273,41988,R&D,2020-11-27,Good,(860) 434-1363
+EMP0149,John,Davis,john.davis@company.com,192-46-2634,88048,Finance,2020-07-14,Excellent,(586) 415-7055
+EMP0150,James,Miller,robert.davis@company.com,758-54-7742,82424,Finance,2020-10-17,Needs Improvement,(973) 210-8611

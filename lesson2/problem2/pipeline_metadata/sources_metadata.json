@@ -1,0 +1,29 @@
+{
+  "sales_orders": {
+    "source_type": "database",
+    "connection": "sales_db.orders",
+    "update_frequency": "real-time",
+    "business_owner": "Sales Team",
+    "technical_owner": "Data Engineering",
+    "data_classification": "Internal",
+    "retention_period": "7 years"
+  },
+  "customer_data": {
+    "source_type": "api",
+    "connection": "customer_api/v2/customers",
+    "update_frequency": "hourly",
+    "business_owner": "Customer Success",
+    "technical_owner": "API Team",
+    "data_classification": "Confidential",
+    "retention_period": "10 years"
+  },
+  "product_catalog": {
+    "source_type": "file_feed",
+    "connection": "ftp://vendor.com/products.csv",
+    "update_frequency": "daily",
+    "business_owner": "Product Management",
+    "technical_owner": "Data Engineering",
+    "data_classification": "Public",
+    "retention_period": "3 years"
+  }
+}

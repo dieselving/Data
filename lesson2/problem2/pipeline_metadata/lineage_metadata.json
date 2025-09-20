@@ -1,0 +1,36 @@
+{
+  "lineage_flows": [
+    {
+      "source": "sales_db.orders",
+      "target": "staging.clean_orders",
+      "transformation": "data_cleaning",
+      "fields_mapping": {
+        "order_id": "order_id",
+        "customer_id": "customer_id",
+        "product_id": "product_id",
+        "quantity": "quantity",
+        "unit_price": "unit_price",
+        "discount_percent": "discount_percent"
+      },
+      "calculated_fields": {
+        "total_amount": "quantity * unit_price * (1 - discount_percent)",
+        "order_month": "EXTRACT_MONTH(order_date)"
+      }
+    },
+    {
+      "source": "staging.clean_orders",
+      "target": "warehouse.fact_sales",
+      "transformation": "business_logic",
+      "fields_mapping": {
+        "order_id": "order_id",
+        "customer_id": "customer_id",
+        "product_id": "product_id",
+        "total_amount": "revenue"
+      },
+      "joins": [
+        "staging.enriched_customers ON customer_id",
+        "staging.processed_products ON product_id"
+      ]
+    }
+  ]
+}

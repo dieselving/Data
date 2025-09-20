@@ -1,0 +1,201 @@
+customer_id,full_name,email_address,credit_card_number,date_of_birth,address,city,state,zip_code,account_balance,credit_score
+CUST00001,Lisa Davis,customer0@company.com,1597-7270-8384-4827,1956-05-24,4832 Elm Dr,Houston,AZ,17168,5047.86,688
+CUST00002,Robert Johnson,customer1@company.com,1693-2918-2556-3299,1963-07-19,8773 Elm Dr,Los Angeles,NY,32016,6743.83,700
+CUST00003,Robert Miller,customer2@gmail.com,4598-8764-6648-4395,1976-06-22,3887 Oak Ave,Los Angeles,TX,82893,7874.71,602
+CUST00004,Michael Miller,customer3@yahoo.com,7928-8399-3511-6244,1956-12-16,8370 Main St,Phoenix,CA,38890,5014.61,506
+CUST00005,Emily Rodriguez,customer4@hotmail.com,8056-4253-1549-6340,1956-11-19,8116 Elm Dr,Chicago,NY,78263,7661.76,528
+CUST00006,Anna Davis,customer5@gmail.com,6114-5416-1401-1854,2003-01-13,9570 Oak Ave,Chicago,AZ,81458,6976.41,374
+CUST00007,Jane Williams,customer6@hotmail.com,9168-5903-7445-2864,1986-02-13,7518 Pine Rd,New York,CA,80654,5464.59,734
+CUST00008,David Jones,customer7@hotmail.com,8951-1969-4210-6404,1968-11-29,9435 Main St,Philadelphia,NY,66092,5352.36,402
+CUST00009,Emily Smith,customer8@yahoo.com,3346-8263-2558-9562,1981-11-13,6253 Elm Dr,Los Angeles,PA,28766,2694.87,721
+CUST00010,James Williams,customer9@company.com,7130-2118-5490-8969,2006-12-29,4795 Oak Ave,Chicago,IL,16029,1998.46,605
+CUST00011,Sarah Smith,customer10@company.com,5255-3232-7851-8530,1965-07-05,5353 Main St,Phoenix,IL,88927,5330.05,397
+CUST00012,Jane Smith,customer11@gmail.com,1728-4769-9059-3284,2002-12-19,1512 Main St,New York,AZ,21496,3288.14,634
+CUST00013,Anna Davis,customer12@company.com,4049-3487-5734-5826,1997-08-21,835 Pine Rd,Los Angeles,AZ,29510,4920.73,734
+CUST00014,David Davis,customer13@hotmail.com,5700-7591-1722-1071,1969-04-12,6515 Pine Rd,Phoenix,CA,60534,3930.67,746
+CUST00015,Robert Davis,customer14@company.com,5769-4381-6967-9227,1992-11-23,7338 Oak Ave,New York,NY,46063,1423.01,607
+CUST00016,Anna Martinez,customer15@gmail.com,4668-7469-5173-3882,1981-04-24,9502 Pine Rd,Chicago,IL,43853,5714.61,548
+CUST00017,Sarah Davis,customer16@gmail.com,5844-9889-6749-8620,1964-11-07,7362 Elm Dr,Los Angeles,IL,94645,4170.94,465
+CUST00018,Robert Garcia,customer17@gmail.com,9162-6231-7205-3529,1956-10-19,4611 Elm Dr,Houston,CA,16380,5160.4,780
+CUST00019,Robert Williams,customer18@hotmail.com,3852-5081-5997-5652,1973-10-09,5565 Pine Rd,Houston,IL,76061,3213.76,634
+CUST00020,Robert Martinez,customer19@hotmail.com,2201-8005-6319-4332,1972-06-27,2917 Main St,New York,NY,31877,4330.37,841
+CUST00021,Michael Williams,customer20@yahoo.com,1665-1294-2484-4029,1980-02-21,3041 Main St,Phoenix,PA,21875,8120.76,405
+CUST00022,John Davis,customer21@yahoo.com,8227-5251-5240-4884,1974-06-11,1981 Oak Ave,Philadelphia,TX,82781,5257.1,380
+CUST00023,Anna Jones,customer22@yahoo.com,6799-9047-8453-8002,2000-07-29,9327 Elm Dr,Houston,AZ,32596,6099.15,432
+CUST00024,Jane Miller,customer23@company.com,2584-6756-9654-9585,1989-05-23,4453 Pine Rd,Philadelphia,IL,72899,2458.26,437
+CUST00025,Lisa Jones,customer24@gmail.com,2382-8426-5880-7966,1992-02-04,7346 Elm Dr,Philadelphia,PA,17529,9778.07,483
+CUST00026,John Brown,customer25@gmail.com,8387-4305-4452-4479,1984-12-10,6466 Elm Dr,Phoenix,IL,68328,8686.83,700
+CUST00027,Sarah Garcia,customer26@yahoo.com,9522-8480-8577-6604,1994-09-15,711 Oak Ave,Phoenix,NY,40467,7726.87,629
+CUST00028,Robert Johnson,customer27@yahoo.com,9556-4204-8759-2829,1993-12-21,3007 Elm Dr,Philadelphia,AZ,81663,6657.53,807
+CUST00029,Lisa Williams,customer28@gmail.com,8063-6954-5009-1377,1973-07-09,4893 Main St,Houston,PA,95249,5030.29,368
+CUST00030,James Jones,customer29@company.com,3858-4403-3394-4911,1999-05-11,7232 Oak Ave,Houston,IL,26976,5884.15,845
+CUST00031,John Martinez,customer30@company.com,9060-9732-4015-6127,1966-11-30,1846 Oak Ave,Los Angeles,TX,13133,7096.04,352
+CUST00032,Anna Brown,customer31@gmail.com,2209-9278-5975-4549,1978-02-22,9416 Oak Ave,Philadelphia,NY,33263,3742.86,749
+CUST00033,Emily Brown,customer32@company.com,4661-4095-2516-4593,1999-09-06,5787 Main St,Philadelphia,TX,13507,4111.0,504
+CUST00034,David Jones,customer33@hotmail.com,4848-7344-2400-6230,1989-06-07,1897 Elm Dr,Phoenix,IL,57500,1661.74,425
+CUST00035,Jane Brown,customer34@hotmail.com,1698-6829-1668-8731,2004-11-17,9581 Pine Rd,New York,CA,37178,3456.36,342
+CUST00036,Sarah Brown,customer35@hotmail.com,7638-2921-2313-1087,1997-04-24,2233 Main St,Houston,TX,49539,8322.6,410
+CUST00037,James Rodriguez,customer36@gmail.com,6617-5966-4966-2579,1982-04-19,5759 Pine Rd,New York,PA,26747,4331.51,482
+CUST00038,James Miller,customer37@gmail.com,4318-5449-2698-4314,1999-04-12,9593 Oak Ave,Houston,CA,40782,4364.31,394
+CUST00039,David Smith,customer38@hotmail.com,1919-6962-4711-4036,1992-11-14,9418 Elm Dr,Phoenix,IL,39512,5635.53,673
+CUST00040,Sarah Davis,customer39@company.com,9432-9922-7230-1615,1982-01-24,4489 Elm Dr,Chicago,AZ,27646,1775.55,819
+CUST00041,James Rodriguez,customer40@hotmail.com,2563-4237-3121-8174,1966-08-12,453 Oak Ave,New York,TX,65348,6890.76,659
+CUST00042,Robert Garcia,customer41@hotmail.com,9879-6811-6160-5419,2004-05-30,7353 Oak Ave,New York,PA,27202,7532.81,580
+CUST00043,John Rodriguez,customer42@gmail.com,6250-1789-6992-2467,1983-12-22,2456 Elm Dr,New York,NY,13625,5754.59,494
+CUST00044,Jane Rodriguez,customer43@company.com,4533-6322-6188-6698,1991-10-25,9293 Main St,Los Angeles,NY,89905,8302.7,494
+CUST00045,Jane Smith,customer44@yahoo.com,5639-4196-1601-4780,1983-04-20,9033 Pine Rd,Chicago,AZ,41181,2346.34,392
+CUST00046,David Martinez,customer45@hotmail.com,1091-6546-7251-5301,1998-02-14,6026 Main St,New York,NY,36131,8687.43,360
+CUST00047,James Miller,customer46@company.com,2921-9451-4974-5146,1963-01-04,2810 Elm Dr,Philadelphia,TX,66823,3538.52,350
+CUST00048,James Martinez,customer47@yahoo.com,7321-2451-4294-5833,1976-06-07,9981 Main St,Chicago,CA,48680,2440.16,702
+CUST00049,John Jones,customer48@yahoo.com,5584-7255-2779-3426,1996-03-15,9766 Pine Rd,New York,IL,81011,4525.22,304
+CUST00050,John Brown,customer49@hotmail.com,4236-8655-3668-9273,1965-01-19,5977 Main St,Philadelphia,NY,90076,8744.01,765
+CUST00051,Sarah Williams,customer50@gmail.com,3487-4220-1169-1914,1965-10-18,9530 Oak Ave,Philadelphia,AZ,68568,4961.12,833
+CUST00052,David Garcia,customer51@gmail.com,8623-6605-4436-9489,2001-05-29,6740 Pine Rd,Los Angeles,IL,65965,3134.82,704
+CUST00053,Anna Johnson,customer52@hotmail.com,3763-3299-1664-1401,1982-07-10,7043 Oak Ave,New York,IL,30938,2410.12,812
+CUST00054,Robert Jones,customer53@gmail.com,2652-2629-1872-8307,1962-01-26,8258 Elm Dr,New York,AZ,73295,4789.76,532
+CUST00055,Emily Garcia,customer54@hotmail.com,8743-3437-2194-6311,2001-11-30,5566 Pine Rd,Los Angeles,CA,87103,1010.08,823
+CUST00056,Emily Smith,customer55@gmail.com,6088-1174-6704-1548,1987-08-05,2171 Pine Rd,Los Angeles,AZ,16767,2399.61,645
+CUST00057,Emily Williams,customer56@yahoo.com,6771-2108-6163-1216,1972-11-06,7936 Pine Rd,New York,PA,66349,8086.14,345
+CUST00058,James Davis,customer57@gmail.com,4065-8253-8769-6523,1970-09-12,2511 Elm Dr,Chicago,NY,61907,7646.53,845
+CUST00059,Robert Smith,customer58@gmail.com,4678-1400-4280-3774,1957-03-12,6690 Main St,New York,CA,80659,4743.18,377
+CUST00060,Anna Jones,customer59@yahoo.com,6587-2086-2813-3862,1967-05-29,2538 Elm Dr,Philadelphia,NY,43711,4068.67,372
+CUST00061,Lisa Martinez,customer60@gmail.com,4822-1988-8019-1007,1966-02-04,4658 Oak Ave,New York,TX,30315,5117.02,548
+CUST00062,Michael Jones,customer61@gmail.com,6182-7833-5770-5493,1982-05-18,4474 Pine Rd,Philadelphia,IL,76581,9695.99,346
+CUST00063,Emily Johnson,customer62@gmail.com,2666-9871-6296-1658,1981-09-30,2069 Elm Dr,New York,IL,68272,5809.95,420
+CUST00064,Robert Miller,customer63@company.com,7429-2775-8693-9402,1991-12-17,7986 Elm Dr,Phoenix,CA,51657,6819.48,513
+CUST00065,David Smith,customer64@hotmail.com,9501-7902-1555-4278,1956-02-10,9316 Oak Ave,Phoenix,TX,40335,4595.08,538
+CUST00066,Emily Miller,customer65@company.com,1376-9105-8889-2902,1977-11-26,671 Pine Rd,Philadelphia,NY,83907,5121.79,355
+CUST00067,Lisa Brown,customer66@company.com,2410-7783-1387-6090,2001-04-24,9688 Main St,Phoenix,IL,26783,6294.33,649
+CUST00068,Emily Smith,customer67@gmail.com,7407-4697-9147-1030,1999-05-20,3969 Elm Dr,Los Angeles,NY,62680,5252.19,406
+CUST00069,Lisa Rodriguez,customer68@hotmail.com,8625-1940-6926-6661,1965-03-18,7128 Pine Rd,Los Angeles,CA,23073,1205.25,347
+CUST00070,Robert Davis,customer69@hotmail.com,4346-5180-3296-9164,1957-07-07,3030 Pine Rd,Philadelphia,PA,35594,7561.08,636
+CUST00071,Michael Garcia,customer70@yahoo.com,6500-5033-7569-9716,1957-07-16,7943 Oak Ave,Phoenix,IL,28670,3769.73,325
+CUST00072,Jane Rodriguez,customer71@hotmail.com,5884-5319-4529-2195,1977-08-11,2761 Pine Rd,New York,TX,29633,9222.64,556
+CUST00073,Michael Martinez,customer72@hotmail.com,4358-4300-5704-9829,1985-08-09,2486 Elm Dr,Philadelphia,AZ,29465,6373.7,307
+CUST00074,Robert Garcia,customer73@yahoo.com,5870-3057-6839-8454,1974-12-16,1049 Main St,Chicago,IL,59015,5141.94,552
+CUST00075,Robert Brown,customer74@company.com,1337-4407-4953-8477,1962-02-28,5180 Oak Ave,Phoenix,NY,48599,5878.65,602
+CUST00076,Emily Davis,customer75@hotmail.com,7045-1347-1174-7289,1960-07-03,7552 Main St,New York,TX,46542,4783.0,355
+CUST00077,Sarah Garcia,customer76@company.com,4055-9819-9277-9694,1981-06-16,6848 Oak Ave,Houston,TX,60394,4027.13,825
+CUST00078,David Garcia,customer77@hotmail.com,9594-9792-6104-2349,1991-07-27,1485 Main St,Chicago,PA,96882,5415.2,773
+CUST00079,John Smith,customer78@hotmail.com,1759-6343-9776-6804,2005-08-10,1579 Elm Dr,Los Angeles,CA,31737,6769.98,327
+CUST00080,Jane Smith,customer79@yahoo.com,8980-2540-4558-5081,1983-06-30,2392 Elm Dr,Houston,PA,80733,4070.94,377
+CUST00081,John Brown,customer80@yahoo.com,4330-5150-4495-2069,1971-03-05,7632 Elm Dr,Los Angeles,IL,87713,3755.53,515
+CUST00082,Jane Johnson,customer81@company.com,9969-2917-6690-5973,1988-09-16,5871 Oak Ave,Los Angeles,CA,66720,4289.02,685
+CUST00083,Emily Jones,customer82@yahoo.com,6567-4435-8495-3676,1999-02-13,7856 Elm Dr,Chicago,PA,75311,6904.02,664
+CUST00084,Michael Brown,customer83@gmail.com,1335-6036-6970-4331,1992-11-07,9889 Main St,Phoenix,NY,54950,7905.1,825
+CUST00085,David Martinez,customer84@company.com,2580-7425-1581-4022,2005-09-04,6028 Oak Ave,Chicago,NY,42143,5724.03,611
+CUST00086,Emily Martinez,customer85@hotmail.com,9848-3952-2905-6440,1984-12-29,6675 Oak Ave,Houston,TX,79966,6162.63,306
+CUST00087,Sarah Garcia,customer86@gmail.com,8356-7318-9273-8656,1958-11-03,1174 Elm Dr,Philadelphia,TX,43737,3740.6,302
+CUST00088,Jane Rodriguez,customer87@hotmail.com,1695-4654-2393-6634,1971-08-25,4659 Oak Ave,Houston,NY,88528,6753.51,662
+CUST00089,Emily Williams,customer88@yahoo.com,3200-7318-8030-7785,2004-11-10,7465 Elm Dr,Los Angeles,CA,58426,6103.47,807
+CUST00090,Robert Williams,customer89@hotmail.com,2708-8587-3569-4533,1998-12-11,1583 Elm Dr,Houston,NY,85654,3579.74,573
+CUST00091,Emily Brown,customer90@gmail.com,7565-7264-6882-3354,1985-06-27,7682 Main St,Los Angeles,IL,31459,1424.66,805
+CUST00092,Robert Martinez,customer91@hotmail.com,3591-7511-8484-1944,1959-04-30,2408 Pine Rd,Houston,CA,59002,2558.86,314
+CUST00093,Jane Martinez,customer92@company.com,6982-9989-7856-8411,1985-01-07,7469 Elm Dr,Los Angeles,NY,13633,3661.59,491
+CUST00094,Michael Johnson,customer93@gmail.com,2591-4910-5918-2914,1989-12-24,2179 Main St,Phoenix,PA,33656,7323.87,784
+CUST00095,John Garcia,customer94@gmail.com,8319-7199-7742-6644,1977-02-04,3578 Elm Dr,Houston,PA,15650,8105.72,327
+CUST00096,Michael Brown,customer95@gmail.com,9353-4082-9819-4497,1978-03-26,3795 Elm Dr,Los Angeles,NY,10354,4120.96,338
+CUST00097,Jane Martinez,customer96@hotmail.com,2881-7694-2100-5820,1994-12-27,6842 Elm Dr,Philadelphia,CA,27888,4184.17,572
+CUST00098,Robert Smith,customer97@yahoo.com,9586-4928-6692-1377,1959-11-08,7651 Oak Ave,Phoenix,CA,54198,5523.25,530
+CUST00099,James Williams,customer98@yahoo.com,1476-6495-2569-1731,2006-08-16,9803 Elm Dr,Houston,NY,22939,5024.29,385
+CUST00100,Sarah Jones,customer99@hotmail.com,2892-9230-8375-2186,1982-05-29,8707 Elm Dr,Phoenix,NY,79789,6861.87,773
+CUST00101,Lisa Davis,customer100@yahoo.com,7647-7548-3870-1727,1962-09-02,5062 Main St,Los Angeles,NY,11150,3953.62,425
+CUST00102,Lisa Miller,customer101@yahoo.com,7682-5712-6889-6010,1958-07-18,307 Oak Ave,Los Angeles,CA,45072,6898.29,836
+CUST00103,John Martinez,customer102@company.com,3535-9662-4527-1208,1969-03-19,8830 Oak Ave,New York,AZ,70702,4521.55,444
+CUST00104,Lisa Miller,customer103@gmail.com,6199-8825-6953-9724,1962-12-29,5208 Elm Dr,Houston,AZ,47712,6707.95,824
+CUST00105,James Jones,customer104@gmail.com,5355-4971-6616-3397,1958-08-11,6278 Oak Ave,Phoenix,IL,41279,4457.92,511
+CUST00106,James Smith,customer105@company.com,9564-3739-5646-6906,1989-02-02,6468 Elm Dr,Phoenix,AZ,21953,3773.81,324
+CUST00107,Michael Davis,customer106@gmail.com,9587-4779-2195-3006,1979-10-03,857 Main St,New York,PA,76378,8824.64,693
+CUST00108,Sarah Smith,customer107@hotmail.com,3936-4636-4712-3831,1966-09-24,2890 Main St,Philadelphia,CA,43935,7130.45,366
+CUST00109,Anna Johnson,customer108@yahoo.com,8775-6644-4743-1414,1975-11-24,1536 Oak Ave,Houston,TX,37515,1415.91,532
+CUST00110,Robert Williams,customer109@yahoo.com,9163-3615-5830-1439,1968-08-07,6379 Oak Ave,New York,PA,61381,4106.45,408
+CUST00111,Robert Williams,customer110@company.com,8539-8670-6006-4517,1977-12-31,7000 Elm Dr,New York,CA,48095,7409.85,445
+CUST00112,James Davis,customer111@yahoo.com,1672-4791-3671-1180,2000-10-31,9563 Elm Dr,Chicago,CA,91505,2606.68,410
+CUST00113,Michael Miller,customer112@company.com,2334-3524-5388-8192,1968-04-18,5378 Oak Ave,Houston,AZ,11347,6541.36,527
+CUST00114,Robert Miller,customer113@company.com,1115-5040-3383-1251,1984-08-17,7946 Pine Rd,Philadelphia,AZ,54103,6334.11,410
+CUST00115,Anna Brown,customer114@gmail.com,5424-3476-8962-9390,1973-08-13,8923 Main St,New York,TX,72447,3601.71,769
+CUST00116,Lisa Garcia,customer115@hotmail.com,4363-9688-6593-5532,1972-07-14,1802 Pine Rd,Chicago,NY,90684,4982.37,333
+CUST00117,Jane Miller,customer116@gmail.com,1896-5904-6586-5151,2006-12-01,6855 Elm Dr,Philadelphia,PA,75449,819.96,668
+CUST00118,Anna Johnson,customer117@company.com,5050-4595-8516-3247,1960-02-12,6970 Pine Rd,Chicago,CA,62066,8540.86,724
+CUST00119,Emily Jones,customer118@company.com,5826-3299-5042-6009,1999-03-08,9936 Main St,Phoenix,NY,22100,4381.81,817
+CUST00120,Robert Martinez,customer119@gmail.com,8214-5497-8655-5030,1962-02-26,3575 Pine Rd,Los Angeles,TX,41782,6607.63,581
+CUST00121,John Garcia,customer120@yahoo.com,5121-3358-1806-4544,1979-07-29,4533 Pine Rd,Los Angeles,CA,55136,6227.68,619
+CUST00122,Emily Rodriguez,customer121@gmail.com,6703-1785-8122-1043,1967-08-07,1262 Elm Dr,Chicago,CA,41334,7715.76,742
+CUST00123,Michael Martinez,customer122@hotmail.com,7841-7089-1367-9168,1964-06-09,1733 Pine Rd,Phoenix,NY,55532,4133.39,614
+CUST00124,James Davis,customer123@company.com,3369-1047-5706-2721,1982-02-18,3558 Pine Rd,Chicago,TX,57694,5407.65,676
+CUST00125,Sarah Davis,customer124@hotmail.com,5423-5468-6523-1954,1965-08-20,1020 Pine Rd,Chicago,PA,43847,6118.22,588
+CUST00126,Emily Brown,customer125@company.com,2700-2076-5031-4105,1985-07-05,5805 Oak Ave,Los Angeles,IL,12132,6745.08,736
+CUST00127,Lisa Garcia,customer126@gmail.com,1322-8718-7786-2158,1972-07-17,3117 Pine Rd,Chicago,NY,91938,7308.71,576
+CUST00128,Jane Garcia,customer127@gmail.com,3390-5079-2015-5335,1972-09-29,9007 Oak Ave,Los Angeles,NY,34044,4045.24,802
+CUST00129,David Martinez,customer128@yahoo.com,6528-3817-7013-6962,2005-10-02,3572 Oak Ave,Los Angeles,NY,27652,3671.55,815
+CUST00130,Jane Rodriguez,customer129@company.com,7974-8584-1090-9154,1998-03-11,5084 Pine Rd,Houston,PA,87649,7720.22,649
+CUST00131,Emily Rodriguez,customer130@hotmail.com,8073-9178-6637-6788,1974-06-17,9259 Main St,Philadelphia,CA,66726,925.85,745
+CUST00132,Emily Smith,customer131@yahoo.com,2492-6903-4478-1504,1993-09-20,2898 Oak Ave,Phoenix,IL,66860,8140.06,649
+CUST00133,Lisa Miller,customer132@company.com,4511-4588-8481-2299,1984-09-23,9879 Main St,Los Angeles,TX,34720,4395.35,436
+CUST00134,John Miller,customer133@gmail.com,9166-1331-1428-2738,1957-05-04,2739 Main St,Chicago,IL,45604,4990.87,542
+CUST00135,Anna Smith,customer134@gmail.com,3324-4007-3348-9368,1961-10-05,1020 Pine Rd,New York,IL,12247,3635.31,842
+CUST00136,Sarah Williams,customer135@gmail.com,9772-5668-1334-7371,1960-04-03,6961 Pine Rd,Houston,IL,70258,4903.61,339
+CUST00137,John Miller,customer136@company.com,5165-8020-7191-3536,1988-10-04,9291 Oak Ave,Chicago,IL,30542,7542.28,528
+CUST00138,Sarah Martinez,customer137@company.com,9828-2117-9454-6783,1999-05-09,5908 Pine Rd,Los Angeles,AZ,98654,6541.73,847
+CUST00139,Emily Martinez,customer138@yahoo.com,7453-7952-5233-2254,1959-12-20,7762 Elm Dr,Houston,AZ,87179,5985.37,522
+CUST00140,John Jones,customer139@gmail.com,9984-4833-5462-6967,1969-10-16,5972 Pine Rd,Phoenix,TX,47504,5177.75,305
+CUST00141,Michael Johnson,customer140@yahoo.com,2037-3823-1377-9648,1995-03-23,3039 Main St,Philadelphia,AZ,50540,2108.78,621
+CUST00142,Michael Rodriguez,customer141@gmail.com,2840-8477-5806-1459,1978-06-23,5669 Pine Rd,Phoenix,PA,86034,3311.73,767
+CUST00143,Sarah Smith,customer142@company.com,2266-3059-3687-2393,1977-09-14,7107 Oak Ave,Philadelphia,AZ,84323,4313.6,374
+CUST00144,Emily Williams,customer143@gmail.com,3389-9039-2481-2999,1996-05-30,1814 Elm Dr,Philadelphia,AZ,40195,5915.35,303
+CUST00145,David Garcia,customer144@gmail.com,6220-2545-9134-4299,1961-02-08,4613 Main St,Philadelphia,AZ,41030,5139.31,417
+CUST00146,Jane Miller,customer145@gmail.com,8491-3547-3413-1811,2000-06-14,679 Elm Dr,Phoenix,IL,91525,6967.01,803
+CUST00147,Robert Rodriguez,customer146@hotmail.com,6405-9763-4180-3194,1976-12-24,8015 Elm Dr,Phoenix,TX,86242,5947.25,740
+CUST00148,David Garcia,customer147@company.com,5420-1984-9957-7569,1960-06-17,5928 Oak Ave,Philadelphia,PA,58896,5108.7,493
+CUST00149,Michael Davis,customer148@hotmail.com,1436-7114-3582-9002,1996-03-18,4638 Main St,Los Angeles,TX,88643,9551.52,691
+CUST00150,Jane Miller,customer149@hotmail.com,5878-1268-1183-7985,1998-02-19,7004 Elm Dr,Houston,NY,43252,5812.45,325
+CUST00151,John Garcia,customer150@company.com,2988-1960-6301-9784,1969-12-17,7754 Main St,Phoenix,IL,85402,4136.12,734
+CUST00152,James Garcia,customer151@company.com,3125-3912-6960-5770,1973-10-23,7793 Elm Dr,Los Angeles,CA,78705,8719.93,472
+CUST00153,Sarah Miller,customer152@gmail.com,7747-3512-4132-1970,1968-06-03,9066 Elm Dr,New York,AZ,65271,7400.82,599
+CUST00154,Michael Jones,customer153@gmail.com,5140-5949-9432-3883,1994-07-21,125 Oak Ave,Chicago,IL,22285,8632.18,625
+CUST00155,Robert Smith,customer154@gmail.com,6442-9995-5090-7617,1972-03-08,8566 Oak Ave,Houston,NY,82028,4778.14,709
+CUST00156,David Brown,customer155@company.com,7656-3215-6002-4198,2002-08-11,3252 Pine Rd,Philadelphia,CA,94456,6952.62,417
+CUST00157,Sarah Miller,customer156@gmail.com,7972-3126-1940-5253,1963-01-20,3365 Pine Rd,New York,CA,94780,2094.3,524
+CUST00158,David Smith,customer157@company.com,5358-6318-3988-9677,1982-11-27,9375 Main St,New York,TX,45181,6568.01,831
+CUST00159,Jane Williams,customer158@gmail.com,1770-2536-3354-7866,1957-04-05,5691 Elm Dr,Los Angeles,IL,11210,4684.55,412
+CUST00160,Jane Rodriguez,customer159@hotmail.com,4689-7669-3328-8298,1977-06-26,4084 Oak Ave,Houston,PA,27574,2289.88,439
+CUST00161,Emily Johnson,customer160@hotmail.com,2913-7611-9364-2928,1966-10-05,7851 Main St,Philadelphia,TX,59041,7065.2,300
+CUST00162,James Williams,customer161@company.com,3021-9524-6722-3756,1976-12-01,3261 Main St,New York,IL,29608,1379.74,389
+CUST00163,Sarah Rodriguez,customer162@yahoo.com,1581-7734-4827-4744,1988-09-28,1203 Elm Dr,Houston,IL,66605,1174.59,619
+CUST00164,John Davis,customer163@hotmail.com,6453-5289-7561-4750,1982-08-02,6457 Elm Dr,Houston,IL,16939,5724.95,849
+CUST00165,Anna Jones,customer164@yahoo.com,7481-5168-5410-8751,2006-09-16,4618 Elm Dr,Chicago,CA,45886,6142.7,438
+CUST00166,Michael Brown,customer165@yahoo.com,6998-2952-2841-5984,1967-10-27,6736 Elm Dr,Chicago,AZ,53433,6941.05,810
+CUST00167,Sarah Miller,customer166@gmail.com,7377-5133-7518-7387,1982-01-06,1031 Oak Ave,Houston,AZ,62403,6483.93,558
+CUST00168,Jane Brown,customer167@hotmail.com,7882-2754-9942-3515,1991-06-29,8752 Pine Rd,Philadelphia,PA,54609,7953.32,309
+CUST00169,Anna Miller,customer168@company.com,1361-9038-4745-7637,1999-11-06,5237 Main St,New York,NY,99717,6400.49,560
+CUST00170,Robert Garcia,customer169@yahoo.com,8896-1047-3427-9399,2000-02-10,4639 Main St,Houston,IL,34115,4735.4,471
+CUST00171,Lisa Miller,customer170@yahoo.com,3089-6120-4159-5797,1978-01-07,9952 Oak Ave,New York,NY,16058,4852.78,312
+CUST00172,James Jones,customer171@gmail.com,7084-5024-5532-3677,1983-04-11,518 Elm Dr,New York,IL,25443,4435.56,467
+CUST00173,Jane Davis,customer172@company.com,4968-3008-3510-3852,1975-09-06,9127 Pine Rd,New York,CA,73515,5590.96,620
+CUST00174,Anna Jones,customer173@company.com,5623-7542-7402-8405,2007-04-08,7649 Oak Ave,New York,PA,41408,2805.31,618
+CUST00175,Sarah Davis,customer174@company.com,5650-6075-6741-1246,1993-04-13,5453 Elm Dr,Phoenix,IL,14608,5681.84,628
+CUST00176,Jane Smith,customer175@company.com,8033-1212-2555-8915,1970-07-05,3738 Elm Dr,Philadelphia,CA,76313,4827.17,849
+CUST00177,Michael Johnson,customer176@hotmail.com,4940-9014-5787-9844,1975-05-21,5267 Elm Dr,Philadelphia,NY,62849,5551.27,718
+CUST00178,Michael Miller,customer177@yahoo.com,4361-9500-5078-7729,1987-04-13,3100 Elm Dr,Chicago,CA,79250,5557.45,394
+CUST00179,Anna Johnson,customer178@yahoo.com,3358-8225-7683-6708,1965-06-23,4154 Elm Dr,Philadelphia,IL,37909,95.47,617
+CUST00180,Emily Garcia,customer179@yahoo.com,6932-7506-1900-5154,1965-03-10,5406 Main St,Houston,CA,68039,3197.41,535
+CUST00181,Sarah Martinez,customer180@company.com,3282-3991-5436-3658,1973-07-05,6501 Main St,Los Angeles,TX,35933,4782.74,633
+CUST00182,Michael Martinez,customer181@hotmail.com,3186-4046-5435-9917,1983-11-07,2921 Elm Dr,Houston,NY,16197,4889.03,675
+CUST00183,Jane Williams,customer182@yahoo.com,1779-1898-4261-3353,1962-02-02,1250 Main St,New York,IL,87685,5518.78,758
+CUST00184,Robert Garcia,customer183@company.com,4762-9904-3729-7995,1982-04-14,3886 Elm Dr,Phoenix,AZ,88657,5604.7,436
+CUST00185,David Jones,customer184@company.com,5750-3809-3999-5254,1980-04-08,7350 Pine Rd,Phoenix,NY,79893,8032.47,846
+CUST00186,James Smith,customer185@gmail.com,5534-7749-1717-3405,1995-04-25,7974 Elm Dr,Chicago,TX,91312,5624.92,812
+CUST00187,Anna Brown,customer186@gmail.com,1679-5677-5709-8865,1966-02-01,7170 Pine Rd,Houston,CA,68780,4373.95,595
+CUST00188,Emily Miller,customer187@hotmail.com,7478-9589-4505-1349,1987-02-14,6839 Pine Rd,Philadelphia,IL,72339,1801.75,619
+CUST00189,Sarah Miller,customer188@hotmail.com,8917-7830-6266-4804,1975-05-17,8390 Oak Ave,New York,AZ,58549,2262.82,648
+CUST00190,Sarah Jones,customer189@hotmail.com,2653-6606-7743-9435,1957-10-04,410 Oak Ave,Phoenix,IL,68438,6070.98,528
+CUST00191,Michael Miller,customer190@company.com,2502-4357-4158-4934,1960-04-17,7299 Pine Rd,New York,CA,69326,7120.89,569
+CUST00192,David Brown,customer191@gmail.com,7126-1852-8755-8220,1961-05-12,9994 Oak Ave,Chicago,AZ,98894,8082.74,590
+CUST00193,John Smith,customer192@company.com,1276-4123-4378-3165,1983-08-13,9831 Oak Ave,New York,PA,65034,3344.21,464
+CUST00194,John Smith,customer193@yahoo.com,4178-2527-5273-7422,2000-08-17,3143 Elm Dr,Los Angeles,PA,47270,4392.27,304
+CUST00195,Michael Davis,customer194@hotmail.com,1326-5644-5245-9544,1996-11-04,350 Main St,Los Angeles,AZ,74539,5484.67,678
+CUST00196,Robert Brown,customer195@yahoo.com,9017-1159-9110-6724,2003-01-23,1950 Main St,Houston,IL,97027,9094.8,377
+CUST00197,David Brown,customer196@gmail.com,8807-2111-7169-2278,1974-03-30,8870 Main St,Los Angeles,CA,79564,5229.72,709
+CUST00198,Emily Williams,customer197@yahoo.com,3095-1581-8355-1181,2004-04-10,4654 Oak Ave,Phoenix,NY,61014,8102.53,431
+CUST00199,David Miller,customer198@hotmail.com,7811-6960-6020-6591,1966-12-07,9075 Pine Rd,New York,PA,90864,5339.95,341
+CUST00200,David Johnson,customer199@yahoo.com,8783-8416-3644-3001,2006-03-26,9528 Main St,Chicago,NY,85249,7306.49,388

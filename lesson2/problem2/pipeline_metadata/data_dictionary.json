@@ -1,0 +1,54 @@
+{
+  "tables": {
+    "fact_sales": {
+      "description": "Central fact table containing all sales transactions with associated dimensions",
+      "columns": {
+        "order_id": {
+          "type": "string",
+          "description": "Unique identifier for each order",
+          "business_name": "Order ID"
+        },
+        "customer_id": {
+          "type": "string",
+          "description": "Foreign key to customer dimension",
+          "business_name": "Customer Identifier"
+        },
+        "product_id": {
+          "type": "string",
+          "description": "Foreign key to product dimension",
+          "business_name": "Product Identifier"
+        },
+        "revenue": {
+          "type": "decimal",
+          "description": "Total revenue from the order",
+          "business_name": "Order Revenue"
+        },
+        "gross_profit": {
+          "type": "decimal",
+          "description": "Profit after cost of goods sold",
+          "business_name": "Gross Profit Margin"
+        }
+      }
+    },
+    "dim_customer": {
+      "description": "Customer dimension containing customer attributes and segments",
+      "columns": {
+        "customer_id": {
+          "type": "string",
+          "description": "Unique customer identifier",
+          "business_name": "Customer ID"
+        },
+        "customer_segment": {
+          "type": "string",
+          "description": "Customer tier classification",
+          "business_name": "Customer Segment"
+        },
+        "region": {
+          "type": "string",
+          "description": "Geographic region of customer",
+          "business_name": "Customer Region"
+        }
+      }
+    }
+  }
+}

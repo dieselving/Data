@@ -1,0 +1,301 @@
+customer_id,first_name,last_name,customer_segment,region,total_lifetime_value
+CUST1,FirstName0,LastName0,Basic,Europe,3382.49
+CUST2,FirstName1,LastName1,Standard,Europe,8564.8
+CUST3,FirstName2,LastName2,Premium,Europe,2150.05
+CUST4,FirstName3,LastName3,Basic,North America,804.47
+CUST5,FirstName4,LastName4,Standard,Europe,783.18
+CUST6,FirstName5,LastName5,Standard,Europe,9413.77
+CUST7,FirstName6,LastName6,Basic,North America,5118.51
+CUST8,FirstName7,LastName7,Basic,Europe,4153.18
+CUST9,FirstName8,LastName8,Standard,North America,8127.7
+CUST10,FirstName9,LastName9,Basic,North America,8374.68
+CUST11,FirstName10,LastName10,Basic,North America,3388.69
+CUST12,FirstName11,LastName11,Premium,North America,6966.82
+CUST13,FirstName12,LastName12,Premium,North America,7734.12
+CUST14,FirstName13,LastName13,Premium,Europe,6581.04
+CUST15,FirstName14,LastName14,Basic,Europe,1600.79
+CUST16,FirstName15,LastName15,Basic,Europe,8771.24
+CUST17,FirstName16,LastName16,Basic,Europe,5437.04
+CUST18,FirstName17,LastName17,Premium,North America,2896.48
+CUST19,FirstName18,LastName18,Basic,Europe,4309.76
+CUST20,FirstName19,LastName19,Standard,Europe,471.95
+CUST21,FirstName20,LastName20,Standard,Europe,1365.88
+CUST22,FirstName21,LastName21,Premium,Europe,7678.91
+CUST23,FirstName22,LastName22,Basic,North America,100.12
+CUST24,FirstName23,LastName23,Standard,North America,4224.0
+CUST25,FirstName24,LastName24,Basic,Europe,5272.85
+CUST26,FirstName25,LastName25,Premium,North America,640.88
+CUST27,FirstName26,LastName26,Premium,Europe,9733.47
+CUST28,FirstName27,LastName27,Basic,Europe,2338.64
+CUST29,FirstName28,LastName28,Premium,Europe,3111.57
+CUST30,FirstName29,LastName29,Premium,Europe,3109.03
+CUST31,FirstName30,LastName30,Basic,North America,2381.12
+CUST32,FirstName31,LastName31,Premium,Europe,114.59
+CUST33,FirstName32,LastName32,Premium,North America,7320.51
+CUST34,FirstName33,LastName33,Basic,Europe,9671.77
+CUST35,FirstName34,LastName34,Basic,Europe,2320.51
+CUST36,FirstName35,LastName35,Premium,North America,6664.17
+CUST37,FirstName36,LastName36,Standard,North America,7444.77
+CUST38,FirstName37,LastName37,Premium,Europe,8499.41
+CUST39,FirstName38,LastName38,Standard,Europe,4284.03
+CUST40,FirstName39,LastName39,Basic,North America,3099.02
+CUST41,FirstName40,LastName40,Basic,Europe,3320.42
+CUST42,FirstName41,LastName41,Premium,North America,7154.95
+CUST43,FirstName42,LastName42,Premium,Europe,8186.12
+CUST44,FirstName43,LastName43,Premium,Europe,1897.98
+CUST45,FirstName44,LastName44,Standard,Europe,3772.32
+CUST46,FirstName45,LastName45,Standard,North America,9029.21
+CUST47,FirstName46,LastName46,Standard,Europe,8086.27
+CUST48,FirstName47,LastName47,Standard,North America,9850.1
+CUST49,FirstName48,LastName48,Standard,Europe,7567.06
+CUST50,FirstName49,LastName49,Basic,Europe,3992.63
+CUST51,FirstName50,LastName50,Basic,North America,5947.31
+CUST52,FirstName51,LastName51,Basic,Europe,6644.04
+CUST53,FirstName52,LastName52,Basic,Europe,876.71
+CUST54,FirstName53,LastName53,Standard,Europe,5490.52
+CUST55,FirstName54,LastName54,Premium,Europe,7122.28
+CUST56,FirstName55,LastName55,Premium,Europe,1756.48
+CUST57,FirstName56,LastName56,Basic,Europe,7828.25
+CUST58,FirstName57,LastName57,Basic,Europe,5879.35
+CUST59,FirstName58,LastName58,Standard,North America,9527.0
+CUST60,FirstName59,LastName59,Standard,Europe,519.98
+CUST61,FirstName60,LastName60,Basic,Europe,2726.73
+CUST62,FirstName61,LastName61,Standard,Europe,6055.38
+CUST63,FirstName62,LastName62,Standard,Europe,3035.94
+CUST64,FirstName63,LastName63,Premium,North America,7172.8
+CUST65,FirstName64,LastName64,Standard,Europe,7614.15
+CUST66,FirstName65,LastName65,Premium,North America,1114.91
+CUST67,FirstName66,LastName66,Standard,North America,5187.16
+CUST68,FirstName67,LastName67,Standard,North America,5138.02
+CUST69,FirstName68,LastName68,Premium,Europe,3755.88
+CUST70,FirstName69,LastName69,Standard,Europe,9335.96
+CUST71,FirstName70,LastName70,Standard,Europe,8292.31
+CUST72,FirstName71,LastName71,Basic,Europe,7002.37
+CUST73,FirstName72,LastName72,Basic,North America,7171.83
+CUST74,FirstName73,LastName73,Basic,North America,4670.99
+CUST75,FirstName74,LastName74,Basic,North America,9217.85
+CUST76,FirstName75,LastName75,Basic,Europe,6976.49
+CUST77,FirstName76,LastName76,Basic,North America,7316.91
+CUST78,FirstName77,LastName77,Basic,Europe,8630.74
+CUST79,FirstName78,LastName78,Premium,Europe,2813.31
+CUST80,FirstName79,LastName79,Standard,Europe,8090.0
+CUST81,FirstName80,LastName80,Basic,Europe,2032.88
+CUST82,FirstName81,LastName81,Standard,Europe,3518.89
+CUST83,FirstName82,LastName82,Basic,Europe,3422.54
+CUST84,FirstName83,LastName83,Premium,North America,9787.4
+CUST85,FirstName84,LastName84,Premium,North America,8579.72
+CUST86,FirstName85,LastName85,Premium,North America,7041.58
+CUST87,FirstName86,LastName86,Premium,Europe,7297.86
+CUST88,FirstName87,LastName87,Standard,Europe,5664.52
+CUST89,FirstName88,LastName88,Basic,Europe,9476.2
+CUST90,FirstName89,LastName89,Basic,North America,5012.96
+CUST91,FirstName90,LastName90,Premium,Europe,3867.13
+CUST92,FirstName91,LastName91,Standard,Europe,1714.05
+CUST93,FirstName92,LastName92,Premium,Europe,7883.44
+CUST94,FirstName93,LastName93,Standard,North America,7370.99
+CUST95,FirstName94,LastName94,Standard,Europe,3905.11
+CUST96,FirstName95,LastName95,Premium,North America,349.41
+CUST97,FirstName96,LastName96,Basic,Europe,8406.07
+CUST98,FirstName97,LastName97,Premium,North America,213.04
+CUST99,FirstName98,LastName98,Basic,Europe,7066.63
+CUST100,FirstName99,LastName99,Standard,North America,9705.55
+CUST101,FirstName100,LastName100,Basic,Europe,4432.85
+CUST102,FirstName101,LastName101,Premium,North America,2426.24
+CUST103,FirstName102,LastName102,Premium,Europe,7078.22
+CUST104,FirstName103,LastName103,Basic,Europe,8189.57
+CUST105,FirstName104,LastName104,Standard,Europe,5509.66
+CUST106,FirstName105,LastName105,Standard,Europe,9673.65
+CUST107,FirstName106,LastName106,Standard,Europe,611.52
+CUST108,FirstName107,LastName107,Standard,Europe,5097.48
+CUST109,FirstName108,LastName108,Premium,North America,7212.69
+CUST110,FirstName109,LastName109,Standard,North America,8640.14
+CUST111,FirstName110,LastName110,Standard,Europe,1874.63
+CUST112,FirstName111,LastName111,Premium,North America,8020.03
+CUST113,FirstName112,LastName112,Premium,North America,5571.8
+CUST114,FirstName113,LastName113,Standard,Europe,4025.88
+CUST115,FirstName114,LastName114,Standard,Europe,1403.98
+CUST116,FirstName115,LastName115,Basic,Europe,8666.43
+CUST117,FirstName116,LastName116,Premium,Europe,1657.0
+CUST118,FirstName117,LastName117,Standard,Europe,3166.9
+CUST119,FirstName118,LastName118,Premium,North America,2971.45
+CUST120,FirstName119,LastName119,Basic,North America,8727.0
+CUST121,FirstName120,LastName120,Basic,North America,6759.76
+CUST122,FirstName121,LastName121,Standard,North America,7987.15
+CUST123,FirstName122,LastName122,Premium,North America,2579.63
+CUST124,FirstName123,LastName123,Basic,Europe,6286.25
+CUST125,FirstName124,LastName124,Basic,North America,5760.29
+CUST126,FirstName125,LastName125,Premium,North America,8345.02
+CUST127,FirstName126,LastName126,Premium,North America,9070.26
+CUST128,FirstName127,LastName127,Standard,Europe,220.35
+CUST129,FirstName128,LastName128,Basic,Europe,6772.8
+CUST130,FirstName129,LastName129,Standard,North America,613.17
+CUST131,FirstName130,LastName130,Premium,North America,5533.7
+CUST132,FirstName131,LastName131,Basic,North America,2947.56
+CUST133,FirstName132,LastName132,Standard,Europe,3137.09
+CUST134,FirstName133,LastName133,Premium,North America,3594.29
+CUST135,FirstName134,LastName134,Basic,North America,6250.8
+CUST136,FirstName135,LastName135,Basic,Europe,3407.09
+CUST137,FirstName136,LastName136,Basic,Europe,7353.72
+CUST138,FirstName137,LastName137,Premium,Europe,4104.82
+CUST139,FirstName138,LastName138,Premium,Europe,776.7
+CUST140,FirstName139,LastName139,Premium,Europe,7859.22
+CUST141,FirstName140,LastName140,Standard,Europe,2929.01
+CUST142,FirstName141,LastName141,Premium,North America,4384.39
+CUST143,FirstName142,LastName142,Standard,North America,6885.89
+CUST144,FirstName143,LastName143,Premium,Europe,3391.32
+CUST145,FirstName144,LastName144,Basic,Europe,660.2
+CUST146,FirstName145,LastName145,Premium,Europe,3801.82
+CUST147,FirstName146,LastName146,Standard,North America,9450.04
+CUST148,FirstName147,LastName147,Premium,North America,6453.17
+CUST149,FirstName148,LastName148,Standard,Europe,6747.64
+CUST150,FirstName149,LastName149,Standard,North America,6359.59
+CUST151,FirstName150,LastName150,Standard,Europe,2070.02
+CUST152,FirstName151,LastName151,Basic,Europe,4241.51
+CUST153,FirstName152,LastName152,Basic,Europe,7534.3
+CUST154,FirstName153,LastName153,Basic,Europe,1103.59
+CUST155,FirstName154,LastName154,Standard,Europe,2850.74
+CUST156,FirstName155,LastName155,Standard,Europe,2835.56
+CUST157,FirstName156,LastName156,Standard,Europe,4376.99
+CUST158,FirstName157,LastName157,Premium,North America,9805.65
+CUST159,FirstName158,LastName158,Basic,Europe,768.28
+CUST160,FirstName159,LastName159,Premium,Europe,5235.14
+CUST161,FirstName160,LastName160,Premium,North America,1875.71
+CUST162,FirstName161,LastName161,Standard,North America,9709.7
+CUST163,FirstName162,LastName162,Standard,Europe,1221.7
+CUST164,FirstName163,LastName163,Standard,Europe,4095.65
+CUST165,FirstName164,LastName164,Standard,North America,7405.06
+CUST166,FirstName165,LastName165,Standard,North America,7075.09
+CUST167,FirstName166,LastName166,Premium,North America,4285.01
+CUST168,FirstName167,LastName167,Basic,North America,3530.59
+CUST169,FirstName168,LastName168,Basic,North America,4036.36
+CUST170,FirstName169,LastName169,Standard,Europe,2716.34
+CUST171,FirstName170,LastName170,Basic,Europe,2132.8
+CUST172,FirstName171,LastName171,Basic,Europe,4882.09
+CUST173,FirstName172,LastName172,Basic,Europe,2758.48
+CUST174,FirstName173,LastName173,Basic,Europe,2945.87
+CUST175,FirstName174,LastName174,Basic,Europe,6601.89
+CUST176,FirstName175,LastName175,Premium,North America,9688.52
+CUST177,FirstName176,LastName176,Premium,Europe,6076.01
+CUST178,FirstName177,LastName177,Premium,North America,862.1
+CUST179,FirstName178,LastName178,Standard,North America,848.28
+CUST180,FirstName179,LastName179,Basic,Europe,9519.09
+CUST181,FirstName180,LastName180,Standard,Europe,3043.18
+CUST182,FirstName181,LastName181,Premium,Europe,1011.46
+CUST183,FirstName182,LastName182,Premium,Europe,6030.54
+CUST184,FirstName183,LastName183,Standard,Europe,6274.12
+CUST185,FirstName184,LastName184,Basic,North America,6520.2
+CUST186,FirstName185,LastName185,Premium,Europe,2747.28
+CUST187,FirstName186,LastName186,Standard,Europe,249.6
+CUST188,FirstName187,LastName187,Standard,North America,9653.65
+CUST189,FirstName188,LastName188,Basic,Europe,2583.84
+CUST190,FirstName189,LastName189,Standard,Europe,6792.66
+CUST191,FirstName190,LastName190,Premium,Europe,7095.64
+CUST192,FirstName191,LastName191,Premium,Europe,6139.07
+CUST193,FirstName192,LastName192,Premium,Europe,3197.78
+CUST194,FirstName193,LastName193,Premium,North America,2783.85
+CUST195,FirstName194,LastName194,Standard,Europe,6016.92
+CUST196,FirstName195,LastName195,Standard,North America,8674.35
+CUST197,FirstName196,LastName196,Standard,North America,9472.66
+CUST198,FirstName197,LastName197,Standard,Europe,1148.47
+CUST199,FirstName198,LastName198,Standard,North America,1632.8
+CUST200,FirstName199,LastName199,Basic,North America,9452.89
+CUST201,FirstName200,LastName200,Premium,Europe,7391.7
+CUST202,FirstName201,LastName201,Premium,Europe,8841.64
+CUST203,FirstName202,LastName202,Basic,Europe,2106.06
+CUST204,FirstName203,LastName203,Basic,North America,5917.1
+CUST205,FirstName204,LastName204,Basic,Europe,7041.28
+CUST206,FirstName205,LastName205,Basic,Europe,6833.11
+CUST207,FirstName206,LastName206,Premium,Europe,4140.7
+CUST208,FirstName207,LastName207,Basic,Europe,252.41
+CUST209,FirstName208,LastName208,Standard,Europe,5870.97
+CUST210,FirstName209,LastName209,Standard,Europe,2605.71
+CUST211,FirstName210,LastName210,Premium,Europe,4557.52
+CUST212,FirstName211,LastName211,Basic,Europe,9580.05
+CUST213,FirstName212,LastName212,Standard,Europe,4050.45
+CUST214,FirstName213,LastName213,Premium,North America,8414.04
+CUST215,FirstName214,LastName214,Standard,North America,1966.55
+CUST216,FirstName215,LastName215,Basic,North America,6757.36
+CUST217,FirstName216,LastName216,Standard,North America,9772.37
+CUST218,FirstName217,LastName217,Standard,Europe,1108.74
+CUST219,FirstName218,LastName218,Standard,Europe,182.37
+CUST220,FirstName219,LastName219,Premium,Europe,4392.47
+CUST221,FirstName220,LastName220,Standard,Europe,1016.99
+CUST222,FirstName221,LastName221,Basic,Europe,7509.01
+CUST223,FirstName222,LastName222,Standard,Europe,9154.03
+CUST224,FirstName223,LastName223,Premium,North America,4396.81
+CUST225,FirstName224,LastName224,Premium,North America,2661.25
+CUST226,FirstName225,LastName225,Standard,Europe,4400.59
+CUST227,FirstName226,LastName226,Standard,Europe,7262.13
+CUST228,FirstName227,LastName227,Premium,Europe,189.64
+CUST229,FirstName228,LastName228,Standard,Europe,5935.59
+CUST230,FirstName229,LastName229,Basic,North America,6171.59
+CUST231,FirstName230,LastName230,Basic,Europe,6413.11
+CUST232,FirstName231,LastName231,Premium,North America,2496.02
+CUST233,FirstName232,LastName232,Standard,North America,7169.12
+CUST234,FirstName233,LastName233,Standard,North America,1004.78
+CUST235,FirstName234,LastName234,Basic,North America,2072.78
+CUST236,FirstName235,LastName235,Basic,Europe,8786.95
+CUST237,FirstName236,LastName236,Standard,Europe,7413.36
+CUST238,FirstName237,LastName237,Basic,North America,236.08
+CUST239,FirstName238,LastName238,Standard,North America,2558.92
+CUST240,FirstName239,LastName239,Premium,North America,2222.62
+CUST241,FirstName240,LastName240,Premium,Europe,2780.98
+CUST242,FirstName241,LastName241,Basic,Europe,2550.84
+CUST243,FirstName242,LastName242,Basic,Europe,719.01
+CUST244,FirstName243,LastName243,Premium,Europe,4643.51
+CUST245,FirstName244,LastName244,Premium,Europe,7354.06
+CUST246,FirstName245,LastName245,Premium,Europe,6106.64
+CUST247,FirstName246,LastName246,Basic,Europe,6761.43
+CUST248,FirstName247,LastName247,Premium,Europe,903.38
+CUST249,FirstName248,LastName248,Basic,North America,9519.76
+CUST250,FirstName249,LastName249,Standard,North America,8401.07
+CUST251,FirstName250,LastName250,Standard,North America,8070.39
+CUST252,FirstName251,LastName251,Premium,Europe,8247.54
+CUST253,FirstName252,LastName252,Standard,Europe,9333.83
+CUST254,FirstName253,LastName253,Basic,Europe,5488.11
+CUST255,FirstName254,LastName254,Premium,Europe,2082.79
+CUST256,FirstName255,LastName255,Standard,Europe,6206.16
+CUST257,FirstName256,LastName256,Standard,Europe,7454.53
+CUST258,FirstName257,LastName257,Basic,North America,7405.38
+CUST259,FirstName258,LastName258,Premium,North America,5262.35
+CUST260,FirstName259,LastName259,Basic,North America,777.74
+CUST261,FirstName260,LastName260,Standard,North America,3774.02
+CUST262,FirstName261,LastName261,Basic,North America,9215.59
+CUST263,FirstName262,LastName262,Basic,North America,5886.04
+CUST264,FirstName263,LastName263,Premium,Europe,5429.49
+CUST265,FirstName264,LastName264,Basic,Europe,2761.65
+CUST266,FirstName265,LastName265,Basic,Europe,3747.64
+CUST267,FirstName266,LastName266,Basic,Europe,8963.93
+CUST268,FirstName267,LastName267,Standard,North America,6697.98
+CUST269,FirstName268,LastName268,Basic,Europe,7895.13
+CUST270,FirstName269,LastName269,Premium,Europe,4598.02
+CUST271,FirstName270,LastName270,Standard,North America,6339.45
+CUST272,FirstName271,LastName271,Basic,Europe,2559.0
+CUST273,FirstName272,LastName272,Premium,North America,7084.06
+CUST274,FirstName273,LastName273,Basic,Europe,4333.25
+CUST275,FirstName274,LastName274,Basic,Europe,4481.2
+CUST276,FirstName275,LastName275,Basic,Europe,6528.29
+CUST277,FirstName276,LastName276,Basic,Europe,9369.18
+CUST278,FirstName277,LastName277,Basic,North America,733.66
+CUST279,FirstName278,LastName278,Basic,Europe,8264.96
+CUST280,FirstName279,LastName279,Premium,Europe,2994.59
+CUST281,FirstName280,LastName280,Standard,Europe,4494.8
+CUST282,FirstName281,LastName281,Basic,Europe,316.94
+CUST283,FirstName282,LastName282,Standard,North America,3080.36
+CUST284,FirstName283,LastName283,Basic,North America,5076.05
+CUST285,FirstName284,LastName284,Standard,North America,656.14
+CUST286,FirstName285,LastName285,Premium,Europe,4961.85
+CUST287,FirstName286,LastName286,Premium,North America,9278.4
+CUST288,FirstName287,LastName287,Standard,Europe,1143.39
+CUST289,FirstName288,LastName288,Basic,North America,7667.96
+CUST290,FirstName289,LastName289,Basic,Europe,4155.74
+CUST291,FirstName290,LastName290,Basic,North America,6586.22
+CUST292,FirstName291,LastName291,Basic,North America,2676.34
+CUST293,FirstName292,LastName292,Premium,Europe,1678.97
+CUST294,FirstName293,LastName293,Premium,Europe,1688.58
+CUST295,FirstName294,LastName294,Standard,Europe,797.87
+CUST296,FirstName295,LastName295,Basic,North America,1937.9
+CUST297,FirstName296,LastName296,Basic,Europe,6675.77
+CUST298,FirstName297,LastName297,Standard,Europe,8828.74
+CUST299,FirstName298,LastName298,Basic,North America,8159.84
+CUST300,FirstName299,LastName299,Premium,North America,6882.83

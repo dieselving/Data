@@ -1,0 +1,59 @@
+{
+  "raw_to_staging": {
+    "orders_cleaning": {
+      "transformation_type": "data_quality",
+      "logic": "Remove duplicates, validate dates, calculate total_amount",
+      "source_fields": [
+        "order_id",
+        "quantity",
+        "unit_price",
+        "discount_percent"
+      ],
+      "target_fields": [
+        "order_id",
+        "quantity",
+        "unit_price",
+        "discount_percent",
+        "total_amount"
+      ],
+      "business_rules": [
+        "Total amount = quantity * unit_price * (1 - discount_percent)"
+      ]
+    },
+    "customer_enrichment": {
+      "transformation_type": "enrichment",
+      "logic": "Calculate customer age, add region mapping, premium flag",
+      "source_fields": [
+        "customer_id",
+        "registration_date",
+        "country",
+        "customer_segment"
+      ],
+      "target_fields": [
+        "customer_id",
+        "customer_age_years",
+        "region",
+        "is_premium"
+      ],
+      "business_rules": [
+        "Premium customers have segment = 'Premium'"
+      ]
+    }
+  },
+  "staging_to_warehouse": {
+    "fact_table_creation": {
+      "transformation_type": "aggregation",
+      "logic": "Join orders with customer and product dimensions, calculate KPIs",
+      "source_tables": [
+        "clean_orders",
+        "enriched_customers",
+        "processed_products"
+      ],
+      "target_table": "fact_sales",
+      "business_rules": [
+        "Revenue = total_amount",
+        "Gross profit = revenue - (quantity * cost_price)"
+      ]
+    }
+  }
+}

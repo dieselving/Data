@@ -1,0 +1,101 @@
+product_id,product_name,category,price,cost,inventory_count,supplier,launch_date,rating,description
+PROD0001,Product 1,Clothing,344.66,96.88,837,Supplier D,2023-03-29,2.0,High quality home & garden product
+PROD0002,Product 2,Books,231.45,235.25,145,Supplier C,2025-09-12,4.3,High quality automotive product
+PROD0003,Product 3,Automotive,359.75,86.89,127,Supplier C,2024-10-29,4.2,High quality electronics product
+PROD0004,Product 4,Automotive,450.84,69.93,852,Supplier E,2023-07-08,3.8,High quality automotive product
+PROD0005,Product 5,Books,315.81,67.74,41,Supplier C,2025-03-27,2.1,High quality automotive product
+PROD0006,Product 6,Electronics,274.49,156.98,355,Supplier C,2024-08-22,3.4,High quality electronics product
+PROD0007,Product 7,Electronics,224.98,292.78,40,Supplier A,2024-02-01,2.4,High quality sports product
+PROD0008,Product 8,Clothing,292.97,140.4,933,Supplier E,2023-01-14,1.4,High quality books product
+PROD0009,Product 9,Clothing,184.13,169.41,33,Supplier E,2025-07-29,4.7,High quality books product
+PROD0010,Product 10,Electronics,201.83,258.89,16,Supplier C,2023-04-25,1.5,High quality books product
+PROD0011,Product 11,Automotive,270.61,162.85,676,Supplier C,2024-04-12,4.8,High quality books product
+PROD0012,Product 12,Clothing,42.64,59.42,152,Supplier A,2025-09-15,2.8,High quality sports product
+PROD0013,Product 13,Clothing,122.22,93.38,997,Supplier B,2025-04-30,1.7,High quality automotive product
+PROD0014,Product 14,Automotive,276.0,96.43,377,Supplier A,2024-03-03,3.2,High quality books product
+PROD0015,Product 15,Clothing,221.45,122.21,587,Supplier E,2024-04-07,4.5,High quality electronics product
+PROD0016,Product 16,Clothing,173.08,130.9,598,Supplier A,2023-08-04,3.9,High quality home & garden product
+PROD0017,Product 17,Sports,367.97,240.94,628,Supplier C,2024-06-06,4.2,High quality automotive product
+PROD0018,Product 18,Electronics,349.92,108.07,873,Supplier B,2023-05-25,3.6,High quality books product
+PROD0019,Product 19,Electronics,91.7,143.13,341,Supplier A,2023-04-01,3.8,High quality clothing product
+PROD0020,Product 20,Books,440.53,189.37,980,Supplier C,2024-03-04,4.4,High quality sports product
+PROD0021,Product 21,Home & Garden,252.76,116.43,26,Supplier A,2024-09-30,2.0,High quality sports product
+PROD0022,Product 22,Automotive,373.32,251.79,824,Supplier E,2025-01-01,3.0,High quality automotive product
+PROD0023,Product 23,Electronics,290.84,178.3,286,Supplier C,2024-10-29,1.9,High quality books product
+PROD0024,Product 24,Electronics,498.87,91.74,645,Supplier D,2024-05-18,5.0,High quality books product
+PROD0025,Product 25,Automotive,378.68,215.65,730,Supplier C,2023-03-25,4.8,High quality sports product
+PROD0026,Product 26,Home & Garden,356.42,160.66,167,Supplier C,2023-12-16,1.2,High quality home & garden product
+PROD0027,Product 27,Electronics,391.5,162.66,609,Supplier D,2024-06-30,3.8,High quality automotive product
+PROD0028,Product 28,Clothing,80.13,146.92,267,Supplier E,2025-05-07,4.7,High quality electronics product
+PROD0029,Product 29,Automotive,110.23,151.62,748,Supplier E,2024-11-05,1.7,High quality clothing product
+PROD0030,Product 30,Clothing,359.89,230.78,820,Supplier B,2024-11-13,3.3,High quality home & garden product
+PROD0031,Product 31,Home & Garden,252.05,35.38,454,Supplier D,2024-06-09,4.7,High quality automotive product
+PROD0032,Product 32,Electronics,379.77,103.64,905,Supplier C,2024-12-17,1.1,High quality electronics product
+PROD0033,Product 33,Sports,60.43,27.27,684,Supplier D,2023-08-16,3.8,High quality sports product
+PROD0034,Product 34,Books,272.88,227.21,400,Supplier E,2023-10-21,2.2,High quality home & garden product
+PROD0035,Product 35,Clothing,195.62,85.33,921,Supplier C,2024-06-11,4.7,High quality books product
+PROD0036,Product 36,Electronics,233.93,269.74,980,Supplier D,2025-02-02,4.9,High quality books product
+PROD0037,Product 37,Home & Garden,305.94,160.34,475,Supplier B,2023-07-16,4.8,High quality home & garden product
+PROD0038,Product 38,Home & Garden,256.12,241.22,701,Supplier A,2024-01-24,2.9,High quality electronics product
+PROD0039,Product 39,Home & Garden,274.53,293.78,633,Supplier E,2024-02-21,4.4,High quality home & garden product
+PROD0040,Product 40,Books,248.32,252.74,557,Supplier E,2024-11-01,4.4,High quality automotive product
+PROD0041,Product 41,Sports,210.39,260.76,575,Supplier A,2023-09-15,2.3,High quality sports product
+PROD0042,Product 42,Books,388.22,125.36,129,Supplier D,2023-08-22,4.3,High quality automotive product
+PROD0043,Product 43,Sports,15.98,167.76,821,Supplier E,2024-10-29,1.1,High quality sports product
+PROD0044,Product 44,Home & Garden,303.24,79.9,362,Supplier D,2025-07-25,3.4,High quality sports product
+PROD0045,Product 45,Sports,287.1,62.85,704,Supplier D,2025-03-08,1.9,High quality electronics product
+PROD0046,Product 46,Books,360.93,154.12,818,Supplier A,2024-05-21,1.5,High quality electronics product
+PROD0047,Product 47,Automotive,303.52,180.54,692,Supplier D,2023-09-05,1.3,High quality books product
+PROD0048,Product 48,Books,415.13,105.09,291,Supplier A,2024-12-13,3.8,High quality automotive product
+PROD0049,Product 49,Automotive,479.95,172.99,370,Supplier A,2024-10-11,2.4,High quality home & garden product
+PROD0050,Product 50,Books,177.84,266.8,793,Supplier A,2025-04-04,3.9,High quality clothing product
+PROD0051,Product 51,Clothing,121.4,169.23,28,Supplier A,2024-10-02,1.3,High quality home & garden product
+PROD0052,Product 52,Clothing,217.56,217.64,148,Supplier A,2025-08-17,2.3,High quality electronics product
+PROD0053,Product 53,Electronics,151.09,242.57,778,Supplier C,2024-05-06,3.2,High quality clothing product
+PROD0054,Product 54,Clothing,311.33,296.67,295,Supplier C,2023-08-07,4.2,High quality automotive product
+PROD0055,Product 55,Books,456.81,182.94,10,Supplier B,2023-06-21,2.3,High quality clothing product
+PROD0056,Product 56,Home & Garden,78.17,243.02,511,Supplier E,2023-07-24,3.5,High quality home & garden product
+PROD0057,Product 57,Clothing,59.39,288.98,675,Supplier C,2024-08-18,4.5,High quality books product
+PROD0058,Product 58,Automotive,135.45,283.6,112,Supplier E,2024-04-29,3.5,High quality home & garden product
+PROD0059,Product 59,Home & Garden,365.79,46.62,186,Supplier E,2024-08-31,1.9,High quality sports product
+PROD0060,Product 60,Electronics,300.55,124.89,806,Supplier D,2025-07-31,1.1,High quality electronics product
+PROD0061,Product 61,Books,60.08,100.58,743,Supplier E,2022-12-03,4.5,High quality books product
+PROD0062,Product 62,Home & Garden,460.19,30.64,226,Supplier E,2025-04-28,1.1,High quality home & garden product
+PROD0063,Product 63,Home & Garden,397.14,191.81,309,Supplier E,2024-04-23,4.5,High quality automotive product
+PROD0064,Product 64,Books,21.28,222.09,97,Supplier E,2024-08-24,3.1,High quality clothing product
+PROD0065,Product 65,Books,329.17,255.2,54,Supplier C,2025-02-20,4.8,High quality electronics product
+PROD0066,Product 66,Sports,387.91,41.22,622,Supplier E,2024-01-27,4.2,High quality home & garden product
+PROD0067,Product 67,Electronics,193.47,263.55,663,Supplier A,2024-12-11,5.0,High quality clothing product
+PROD0068,Product 68,Sports,43.77,194.66,757,Supplier A,2025-03-04,2.4,High quality sports product
+PROD0069,Product 69,Electronics,47.89,212.66,405,Supplier A,2024-09-17,4.1,High quality electronics product
+PROD0070,Product 70,Home & Garden,61.08,273.63,68,Supplier D,2022-10-17,2.6,High quality home & garden product
+PROD0071,Product 71,Sports,421.82,189.3,311,Supplier A,2023-11-17,2.9,High quality electronics product
+PROD0072,Product 72,Books,456.24,104.08,288,Supplier D,2024-05-31,3.5,High quality electronics product
+PROD0073,Product 73,Sports,70.18,248.41,761,Supplier C,2023-12-27,4.5,High quality electronics product
+PROD0074,Product 74,Home & Garden,125.59,112.1,547,Supplier E,2025-06-03,4.9,High quality electronics product
+PROD0075,Product 75,Automotive,91.11,15.1,750,Supplier D,2024-01-17,4.1,High quality automotive product
+PROD0076,Product 76,Automotive,101.3,250.04,147,Supplier D,2025-04-20,2.7,High quality clothing product
+PROD0077,Product 77,Automotive,420.37,106.83,466,Supplier E,2024-10-23,2.7,High quality electronics product
+PROD0078,Product 78,Books,172.75,233.28,738,Supplier E,2024-09-28,4.0,High quality electronics product
+PROD0079,Product 79,Electronics,162.61,112.01,243,Supplier D,2025-04-26,2.0,High quality books product
+PROD0080,Product 80,Sports,121.42,259.02,490,Supplier D,2023-05-29,1.4,High quality electronics product
+PROD0081,Product 81,Home & Garden,307.87,69.76,848,Supplier D,2023-11-23,2.4,High quality books product
+PROD0082,Product 82,Books,195.86,292.49,957,Supplier D,2023-05-14,2.1,High quality clothing product
+PROD0083,Product 83,Books,374.68,235.03,506,Supplier B,2024-06-06,2.2,High quality clothing product
+PROD0084,Product 84,Sports,110.73,38.7,364,Supplier C,2023-12-21,1.9,High quality sports product
+PROD0085,Product 85,Sports,396.02,171.9,481,Supplier C,2024-04-09,1.2,High quality sports product
+PROD0086,Product 86,Clothing,305.82,295.68,200,Supplier E,2024-10-05,1.1,High quality books product
+PROD0087,Product 87,Books,65.99,143.96,153,Supplier A,2023-02-12,5.0,High quality electronics product
+PROD0088,Product 88,Home & Garden,213.11,58.72,449,Supplier E,2023-11-22,2.7,High quality electronics product
+PROD0089,Product 89,Clothing,433.12,148.01,500,Supplier B,2024-01-14,2.5,High quality electronics product
+PROD0090,Product 90,Automotive,462.25,156.18,72,Supplier E,2025-09-06,3.7,High quality sports product
+PROD0091,Product 91,Home & Garden,238.19,223.8,712,Supplier D,2024-10-09,1.9,High quality automotive product
+PROD0092,Product 92,Electronics,245.61,211.16,295,Supplier A,2024-12-05,4.8,High quality sports product
+PROD0093,Product 93,Books,460.04,123.75,16,Supplier B,2024-04-25,4.1,High quality electronics product
+PROD0094,Product 94,Automotive,297.66,69.32,640,Supplier D,2025-03-24,1.4,High quality electronics product
+PROD0095,Product 95,Electronics,26.09,195.29,216,Supplier D,2023-04-28,2.7,High quality clothing product
+PROD0096,Product 96,Electronics,457.25,129.4,60,Supplier D,2022-10-27,4.5,High quality clothing product
+PROD0097,Product 97,Clothing,131.63,44.02,938,Supplier A,2023-05-09,4.8,High quality electronics product
+PROD0098,Product 98,Books,293.04,270.67,615,Supplier D,2024-05-05,2.9,High quality home & garden product
+PROD0099,Product 99,Automotive,91.1,208.91,41,Supplier B,2023-07-26,3.5,High quality electronics product
+PROD0100,Product 100,Automotive,26.6,206.54,24,Supplier C,2025-08-16,1.7,High quality electronics product
